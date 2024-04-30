@@ -1,0 +1,52 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(240, 255, 128);
+  background: linear-gradient(
+    126deg,
+    rgb(240, 255, 128) 0%,
+    rgb(233, 151, 29) 96%
+  );
+  height: 100vh;
+  color: #070707;
+  line-height: 1.5;
+  font-family: "M PLUS Rounded 1c";
+}
+
+.todo {
+  display: flex;
+  align-items: flex-start;
+}
+
+.todo-section {
+  width: 400px;
+  /* border: 1px solid white; */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    126deg,
+    rgb(255, 255, 255) 0%,
+    rgb(254, 250, 182) 96%
+  );
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+.todo-section-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 10px 0 20px;
+  text-align: center;
+}
+
+.card {
+  padding: 15px;
+  background: rgb(187, 243, 251);
+  border-radius: 10px;
+  margin-top: 10px;
+}
