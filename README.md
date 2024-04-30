@@ -17,7 +17,7 @@ https://github.com/sachi-6/myTodoList/assets/168513985/b32a4370-bdb3-4344-9dcc-9
 ## ローカルアプリの起動
 下記コマンドで起動する
 
-
+```
 $npm start
-
+```
 
