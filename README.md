@@ -8,7 +8,11 @@ dummyData.jsで設定している日々のタスクを、今日やること or �
 
 ## DEMO
 操作動画
-https://github.com/sachi-6/todo_List_20240430/assets/168513985/9a7c0a1d-a19c-4e0e-987f-24c795fdc6d5
+
+
+https://github.com/sachi-6/myTodoList/assets/168513985/b32a4370-bdb3-4344-9dcc-98ccfb3647e7
+
+
 
 ## ローカルアプリの起動
 下記コマンドで起動する
